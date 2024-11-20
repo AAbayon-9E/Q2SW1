@@ -1,0 +1,28 @@
+body{
+	background-image: url(https://images.alphacoders.com/117/1173981.png);
+	background-repeat: no-repeat;
+  	background-position: center;
+  	background-size: contain;
+  	background-color: #63AA68;
+	color: #43C4FF;
+	font-family: Times new Romans;
+}
+h1{
+	text-shadow: -6px -1px 21px rgba(0,191,255,1);
+}
+p{
+	color: #A0F1FF;
+	text-shadow: 4px 3px 31px rgba(86,253,247,1);
+}
+img{
+	width: 150px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	border-radius: 15px;
+}
+.container{
+	background-image: url(https://img.freepik.com/premium-vector/cartoon-moss-pavement-green-moss-plant-creeps-pavement-stones-seamless-pattern-stone-floor-paved-path-flat-vector-background-illustration_627510-2499.jpg);
+	
+	border-radius: 20px;
+
+}
